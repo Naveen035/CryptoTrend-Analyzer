@@ -1,4 +1,4 @@
-# **Bitcoin Price Predictor** 🚀
+# **CryptoTrend Analyzer** 🚀
 
 ## **Overview**
 
